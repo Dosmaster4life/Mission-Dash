@@ -1,0 +1,218 @@
+{
+    "questions": [
+      {
+        "number": 1,
+        "question": "Safeguard number 2 is...",
+        "answers": [
+          "Be Mindful of others",
+          "Be Focused on Your Missionary Purpose",
+          "Be in Tune with Spiritual Promptings",
+          "Be Intentional in Thought"
+        ],
+        "correct_answer": 2   
+      },
+      {
+        "number": 2,
+        "question": "Safeguard number 3 is:",
+        "answers": [
+          "Be Disciplined",
+          "Be Understanding",
+          "Be in Tune with Spiritual Promptings",
+          "Be Intentional in Thought"
+          
+        
+        ],
+        "correct_answer": 1
+      },
+      {
+        "number": 3,
+        "question": "Safeguard number 1 is",
+        "answers": [
+          "Be in Tune with Spiritual Promptings",
+          "Be Intentional in Thought",
+          "Be Disciplined",
+          "Be Understanding"
+          
+        ],
+        "correct_answer": 1
+      },
+      {
+        "number": 4,
+        "question": "Safeguard number 4 is:",
+        "answers": [
+          "Be Consistent",
+          "Be One",
+          "Be in Tune with Spiritual Promptings",
+          "Be Intentional in Thought"
+          
+    
+        ],
+        "correct_answer": 2
+      },
+      {
+        "number": 5,
+        "question": "The first step when you are feeling vulnerable or susceptible is to...",
+        "answers": [
+          "Be aware and acknowledge",
+          "Be inspired",
+          "Talk to it with your companion",
+          "Pray with a sincere heart"
+          
+          
+        ],
+        "correct_answer": 1
+      },
+      {
+        "number": 6,
+        "question": "The second step when you are feeling vulnerable or susceptible is to:",
+        "answers": [
+          "Choose to stop",
+          "Choose to act",
+          "Choose to pray",
+          "Talk to your mission president for help"
+        ],
+        "correct_answer": 2
+      },
+      {
+        "number": 7,
+        "question": "The third step when you are feeling vulerable or susceptilbe is to",
+        "answers": [
+          "Learn and improve",
+          "Learn and continue",
+          "Talk with your companion",
+          "Learn and develop"
+          
+    
+        ],
+        "correct_answer": 1
+      },
+      {
+        "number": 8,
+        "question": "Your mobile device had filters designed to protect you. However, your strongest filter is",
+        "answers": [
+          "Yourself",
+          "Your companion",
+         "Your Mission President",
+         "Maas360"
+        ],
+        "correct_answer": 1
+      },
+      {
+        "number": 8,
+        "question": "You are less likely to be distracted on your device",
+        "answers": [
+          "By throwing it in the trash",
+          "By choosing to always plan meaningful activities",
+          "By scrolling on facebook",
+          "By making excuses"
+         
+        ],
+        "correct_answer": 2
+      },
+      {
+        "number": 9,
+        "question": "Turn on your device only after your intention is clear. If you can’t remember why you are using your device",
+        "answers": [
+          "Stop what you are doing and review your plans",
+          "Panic",
+          "Pray for help to resist temptation and call your mission president",
+          "Tell yourself you are sorry."
+        ],
+        "correct_answer": 1
+      },
+      {
+        "number": 10,
+        "question": "Our devices should be",
+        "answers": [
+          "Our servants",
+          "Our masters",
+          "Our Companion",
+          "Our Mission President"
+         
+        ],
+        "correct_answer": 1
+      },
+      {
+        "number": 11,
+        "question": "Have your companion review",
+        "answers": [
+          "Letters to president and emails home",
+          "All posts, comments, and messages before you send them. (This does not apply to letters to the president or emails home.)",
+          "Your missionary efforts in every aspect of your life",
+          "Only Facebook"
+         
+        ],
+        "correct_answer": 2
+      },
+      {
+        "number": 12,
+        "question": "Finish the quote, No member of this Church—and that means each of you—will ever make a serious mistake without...",
+        "answers": [
+          "Looking at all the options.",
+          "First being warned by the promptings of the Holy Ghost.",
+         "Fasting",
+         "Paying Tithing"
+        ],
+        "correct_answer": 2
+      },
+      {
+        "number": 13,
+        "question": "And if your eye be single to my glory, your whole bodies shall be filled with...",
+        "answers": [
+          "Hope",
+          "Light",
+         "The Priesthood",
+         "Evil"
+        ],
+        "correct_answer": 2
+      },
+      {
+        "number": 14,
+        "question": "As you strive to build righteous habits, seek help from:",
+        "answers": [
+          "No one, you can only rely on yourself",
+          "Other missionaries. And, prepare to help missionaries around you.",
+         "Your Mission President for every concievable thing.",
+         "The Prophet and other general authorities, call them every day."
+        ],
+        "correct_answer": 2
+      },
+      {
+        "number": 15,
+        "question": "Your Heavenly Father has given you two special gifts to help you follow these safeguards:",
+        "answers": [
+          "Moral Agency and the Gift of The Holy Ghost",
+          "My District Leader and Zone Leaders.",
+         "The APs and your Mission President",
+         "Elder Hatch, and Elder Driessen"
+        ],
+        "correct_answer": 1
+      },
+      {
+        "number": 16,
+        "question": "Everything you do should be centered on your purpose.",
+        "answers": [
+          "This includes how I use technology.",
+          "This does not include how I use technology.",
+         "Except on Pday, which is used to refresh yourself for the rest of the week",
+         "False"
+        ],
+        "correct_answer": 1
+      },
+      {
+        "number": 17,
+        "question": "Fill the blank,I say unto you, be one; and if ye are not ______ ye are not mine.",
+        "answers": [
+          "United",
+          "One",
+         "Family",
+         "Pure"
+        ],
+        "correct_answer": 2
+      }
+      
+
+      
+      
+    ]
+  }

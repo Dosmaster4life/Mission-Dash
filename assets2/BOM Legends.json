@@ -1,0 +1,299 @@
+{
+    "questions": [
+      {
+        "number": 1,
+        "question": "I was the Lamanitish woman who called the people when the spirit overcame Ammon and the king's household.",
+        "answers": [
+          "Angel",
+          "Akish",
+          "Abish",
+          "Amy"
+        ],
+        "correct_answer": 3   
+      },
+      {
+        "number": 2,
+        "question": "While they were wandering in the wilderness, Nephi broke this metal object.",
+        "answers": [
+          "Brass Plates",
+          "He didn't break anything!!!",
+          "Brazen Serpent",
+          "Bow"
+          
+        
+        ],
+        "correct_answer": 4
+      },
+      {
+        "number": 3,
+        "question": "Not only was I the last Jaredite King, I was the last Jaredite.",
+        "answers": [
+          "Chemish",
+          "Cohor",
+          "Coriantumr",
+          "Corihor"
+          
+        ],
+        "correct_answer": 3
+      },
+      {
+        "number": 4,
+        "question": "The destruction of Ammonihah was so terrible that the land was not called Ammonihah, but rather..",
+        "answers": [
+          "Desolation of Sodom",
+          "Desolation of Ammonihah",
+          "Desolation of Nehors",
+          "Desolation of Sinners"
+          
+    
+        ],
+        "correct_answer": 3
+      },
+      {
+        "number": 5,
+        "question": "This silver coin was worth four senums.",
+        "answers": [
+          "Eunum",
+          "Ergnom",
+          "Ezrom",
+          "Eeth"
+          
+          
+        ],
+        "correct_answer": 3
+      },
+      {
+        "number": 6,
+        "question": "This was the first part of the Lord that the Brother of Jared saw.",
+        "answers": [
+          "Fist",
+          "Foot",
+          "Finger",
+          "Face"
+        ],
+        "correct_answer": 3
+      },
+      {
+        "number": 7,
+        "question": "This servant of the Lord had a stone prepared for him.",
+        "answers": [
+          "Gazelem",
+          "Gadianton",
+          "Gid",
+          "Gideon"
+          
+    
+        ],
+        "correct_answer": 1
+      },
+      {
+        "number": 8,
+        "question": "I was an exceedingly curious man.",
+        "answers": [
+          "Helaman",
+          "Helem",
+         "Ham",
+         "Hagoth"
+        ],
+        "correct_answer": 4
+      },
+     
+      {
+        "number": 9,
+        "question": "After leaving Jerusalem and traveling through the wilderness Lehi and his family came to the sea which they called this, meaning many waters.",
+        "answers": [
+          "Iliad",
+          "Irreantum",
+          "Ishmael",
+          "Idumea"
+         
+        ],
+        "correct_answer": 2
+      },
+      {
+        "number": 10,
+        "question": "After the destruction in 3 Nephi, the voice of the Lord makes special mention of the destruction of this city, which was known for its murders, secret combinations, and the fact that they destroyed the government.",
+        "answers": [
+          "Jacobugath",
+          "Jershon",
+          "Jerusalem",
+          "Jashon"
+         
+        ],
+        "correct_answer": 1
+      },
+      {
+        "number": 11,
+        "question": "I was an Anti-Christ.",
+        "answers": [
+          "Kishkumen",
+          " Kimnor",
+          "Kumen",
+          "Korihor"
+         
+        ],
+        "correct_answer": 4
+      },
+      {
+        "number": 12,
+        "question": "This chief judge refused to be bullied by Giddianhi and his band of robbers.",
+        "answers": [
+          "Lehi",
+          "Limhi",
+         "Laman",
+         "Lachoneus"
+        ],
+        "correct_answer": 4
+      },
+      {
+        "number": 13,
+        "question": "This was the son of Zedekiah who was led to the Promised Land.",
+        "answers": [
+          "Mulek",
+          "Moroni",
+         "Muloki",
+         "All of his children were slain"
+        ],
+        "correct_answer": 1
+      },
+      {
+        "number": 14,
+        "question": "When Ishmael died, he was buried here.",
+        "answers": [
+          "Nahom",
+          "Ninevah",
+         "Nephihah",
+         "Nowhere, he was taken up to heaven"
+        ],
+        "correct_answer": 1
+      },
+      {
+        "number": 15,
+        "question": "I was one of the four sons of Mosiah.",
+        "answers": [
+          "Mosiah only had three sons",
+          "Onidah",
+         "Omner",
+         "Onnon"
+        ],
+        "correct_answer": 3
+      },
+      {
+        "number": 16,
+        "question": "My death was not pleasant; Coriantumr killed me against the walls of the city.",
+        "answers": [
+          "Paanchi",
+          "Pacumeni",
+         "Pahoran",
+         "Pachus"
+        ],
+        "correct_answer": 2
+      },
+      {
+        "number": 17,
+        "question": "Amalakiah took this Lamanite queen as his wife.",
+        "answers": [
+          "We aren't told her name",
+          "Queen Isabel",
+         "Queen Abish",
+         "Queen Saria"
+        ],
+        "correct_answer": 1
+      }
+      ,
+      {
+        "number": 18,
+        "question": "This is the holy stand",
+        "answers": [
+          "Ripliancum",
+          "Rameumptom",
+          "Rabbana",
+          "Roshana"
+         
+        ],
+        "correct_answer": 2
+      },
+      {
+        "number": 19,
+        "question": "I was Coriantumr's bitter enemy, and the next to last Jaredite.",
+        "answers": [
+          "Seezoram",
+          "Shem",
+          "Sam",
+          "Shiz"
+         
+        ],
+        "correct_answer": 4
+      },
+      {
+        "number": 20,
+        "question": "I was the King of the Lamanites who sent Coriantumr to attack Zarahemla.",
+        "answers": [
+          "Teancum",
+          "Tubaloth",
+         "Timothy",
+         "Teomner"
+        ],
+        "correct_answer": 2
+      },
+      {
+        "number": 21,
+        "question": "Jesus teaches the Nephites not to partake of the sacrament in this condition.",
+        "answers": [
+          "Unwillingly",
+          "Unworthily",
+         "Unwisely",
+         "Unconsciously"
+        ],
+        "correct_answer": 2
+      },
+      {
+        "number": 22,
+        "question": "When Teancum was killed, Moroni and Lehi were sad, because he had fought ______ for his country.",
+        "answers": [
+          "Valiantly",
+          "Victoriously",
+         "Voraciously",
+         "Vindictively"
+        ],
+        "correct_answer": 1
+      },
+      {
+        "number": 23,
+        "question": "King Noah had many vineyards, so many, in fact, that he became known as a...",
+        "answers": [
+          "Wine-drinker",
+          "Wino",
+         "Wine-bibber",
+         "Winemaker"
+        ],
+        "correct_answer": 3
+      },
+      {
+        "number": 24,
+        "question": "Usually associated with farm animals, this item is used in the Book of Mormon to describe the condition of slavery.",
+        "answers": [
+          "Yolk",
+          "Yib",
+         "Yak",
+         "Yoke"
+        ],
+        "correct_answer": 4
+      },
+      {
+        "number": 25,
+        "question": "I was an unbelieving lawyer, until I had a run in with Alma and Amulek.",
+        "answers": [
+          "Zerahemnah",
+          "Zeezrom",
+         "Zoram",
+         "Zeniff"
+        ],
+        "correct_answer": 2
+      }
+      
+
+      
+      
+    ]
+  }
