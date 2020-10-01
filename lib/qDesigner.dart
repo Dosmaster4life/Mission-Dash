@@ -1,10 +1,14 @@
 import 'package:auto_size_text/auto_size_text.dart';
 import 'package:flutter/material.dart';
+import 'package:mission/Game.dart';
 
 class qDesigner extends StatefulWidget {
   @override
   _qDesignerState createState() => _qDesignerState();
 }
+
+List<Questions> jlist = new List<Questions>();
+jsonSerial jdata = new jsonSerial(questions: jlist);
 
 class _qDesignerState extends State<qDesigner> {
   Widget homeImg() {
@@ -47,6 +51,7 @@ Widget btnRows() {
           padding: EdgeInsets.all(7.0),
           child: MaterialButton(
               onPressed: () {}, //
+
               height: 50,
               elevation: 10,
               color: Colors.blue[500],
@@ -64,7 +69,15 @@ Widget btnRows() {
       Padding(
           padding: EdgeInsets.all(7.0),
           child: MaterialButton(
-              onPressed: () {}, //
+              onPressed: () {
+                Questions q = new Questions();
+                q.number = 1;
+                q.question = "What is the questions";
+                q.answers = ["A", "B", "C", "D"];
+                q.correctAnswer = 1;
+                jdata.questions.add(q);
+                print(jdata.toJson());
+              }, //
               height: 50,
               elevation: 10,
               color: Colors.blue[500],
