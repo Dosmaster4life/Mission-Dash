@@ -12,10 +12,6 @@ import 'package:path_provider/path_provider.dart';
 import 'dart:math';
 import 'Alert.dart';
 import 'package:shared_preferences/shared_preferences.dart';
-import 'package:flame/animation.dart'
-    as animation; // imports the Animation class under animation.Animation
-import 'package:flame/flame.dart'; // imports the Flame helper class
-import 'package:flame/position.dart'; // imports the Position class
 
 class game extends StatefulWidget {
   @override
@@ -82,6 +78,10 @@ void loadAsset() {
   }
 }
 
+void scoreUP() {
+  score += 100;
+}
+
 Future loadJson() async {
   if (loadedQuiz == false) {
     String jsonData = await _loadJsonAsset();
@@ -100,6 +100,8 @@ Future loadJson() async {
   //print(x.questions[0].question);
 }
 
+var finished = false;
+
 var aList = {aText, bText, cText, dText};
 void check() {
   print(aText);
@@ -107,22 +109,22 @@ void check() {
   if (aText == rAnswer) {
     defaultbtnA = rightbtn;
     if (selectedAnswer == 1) {
-      score += 100;
+      scoreUP();
     }
   } else if (bText == rAnswer) {
     defaultbtnB = rightbtn;
     if (selectedAnswer == 2) {
-      score += 100;
+      scoreUP();
     }
   } else if (cText == rAnswer) {
     defaultbtnC = rightbtn;
     if (selectedAnswer == 3) {
-      score += 100;
+      scoreUP();
     }
   } else if (dText == rAnswer) {
     defaultbtnD = rightbtn;
     if (selectedAnswer == 4) {
-      score += 100;
+      scoreUP();
     }
   }
   if (aText != rAnswer) {
@@ -145,6 +147,7 @@ void check() {
       defaultbtnD = wrongbtn;
     }
   }
+  
 }
 
 int v = 0;
@@ -167,7 +170,7 @@ void setValues() {
   aList = {aText, bText, cText, dText};
   qNum += 1;
   print(qNum);
-  v = jData.questions.length / 3;
+  v = jData.questions.length;
 
   print(qNum);
   print(v);
@@ -246,6 +249,9 @@ class _gameState extends State<game> {
             if (selectedAnswer == 0)
               {
                 setState(() {
+                  if (finished) {
+                    Navigator.pop(context);
+                  }
                   selectedAnswer = 1;
                   //loadJson();
                   check();
@@ -275,6 +281,10 @@ class _gameState extends State<game> {
             ),
           ),
           onPressed: () => {
+            if (finished)
+              {
+                Navigator.pop(context),
+              },
             if (selectedAnswer == 0)
               {
                 setState(() {
@@ -307,6 +317,10 @@ class _gameState extends State<game> {
             ),
           ),
           onPressed: () => {
+            if (finished)
+              {
+                Navigator.pop(context),
+              },
             if (selectedAnswer == 0)
               {
                 setState(() {
@@ -339,6 +353,10 @@ class _gameState extends State<game> {
             ),
           ),
           onPressed: () => {
+            if (finished)
+              {
+                Navigator.pop(context),
+              },
             if (selectedAnswer == 0)
               {
                 setState(() {
@@ -373,6 +391,10 @@ class _gameState extends State<game> {
             ),
           ),
           onPressed: () => {
+            if (finished)
+              {
+                Navigator.pop(context),
+              },
             if (selectedAnswer != 0)
               {
                 if (qNum >= v)

@@ -37,8 +37,6 @@ dependencies:
   path_provider: ^1.6.14
   shared_preferences: ^0.5.10
   file_picker: ^1.13.3
-  flame: ^0.26.0
-  dashbook: ^0.0.7
   
 
 dev_dependencies:
@@ -52,6 +50,7 @@ dev_dependencies:
 flutter:
   assets:
    - assets2/
+   - assets/
 
   # The following line ensures that the Material Icons font is
   # included with your application, so that you can use the icons in

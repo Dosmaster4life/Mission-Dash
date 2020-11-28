@@ -11,11 +11,9 @@ showAlertDialog(BuildContext context, String message, String heading,
     child: Text(buttonCancelTitle),
     onPressed: () {
       restartQuiz();
+          
 
-      Navigator.push(
-        context,
-        MaterialPageRoute(builder: (context) => homepage()),
-      );
+      Navigator.of(context).popUntil((route) => route.isFirst);
     },
   );
   Widget continueButton = FlatButton(
@@ -23,10 +21,8 @@ showAlertDialog(BuildContext context, String message, String heading,
     onPressed: () {
       restartQuiz();
 
-      Navigator.push(
-        context,
-        MaterialPageRoute(builder: (context) => quizl()),
-      );
+      Navigator.pop(context);
+      Navigator.pop(context);
     },
   );
 
